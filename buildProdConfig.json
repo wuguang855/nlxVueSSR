@@ -1,0 +1,6 @@
+{
+"apiLoginUrl":"http://36.152.34.20:8890",
+"port":"8080",
+"apiUrl":"http://192.168.2.10:18083",
+"webBasePath":"/teamall"
+}
